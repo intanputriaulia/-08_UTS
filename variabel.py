@@ -1,0 +1,1 @@
+print("laptop = 2")
